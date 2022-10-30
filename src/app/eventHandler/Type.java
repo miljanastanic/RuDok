@@ -1,0 +1,11 @@
+package app.eventHandler;
+
+public enum Type {
+
+    NE_MOZE_SE_OBRISATI,
+    NIJE_NISTA_SELEKTOVANO,
+    NEW_TAB_NIJE_DOKUMENT,
+    NIJE_PROJEKAT,
+    NIJE_SELEKTOVAN_SLOT,
+    SACUVAJ_PROJEKAT,
+}
